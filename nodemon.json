@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW": "konjina01",
+        "JWT_PW": "anamedic1404"
+    }
+}
